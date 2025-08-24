@@ -1,4 +1,5 @@
 {
-  "version": "3.9.9",
-  "zipUrl": "https://github.com/flashpro2025/update/raw/main/Update.zip"
+  "version": "3.1.0",
+  "url": "https://github.com/flashpro2025/update/releases/download/flashpro/Update.zip",
+  "notes": "Update terbaru dengan perbaikan bug!"
 }
