@@ -1,10 +1,5 @@
 {
   "version": "3.2.0",
   "zipUrl": "https://github.com/flashpro2025/update/releases/download/flashpro/Update.zip",
-  "notes": "Update terbaru: "
+  "notes": "Update terbaru Smartkey Yamaha & Suzuki:\n- Penambahan dukungan Smartkey Yamaha generasi terbaru (2023/2024)\n- Perbaikan bug pada proses write key Suzuki\n- Optimasi kecepatan read/write EEPROM 24Cxx\n- Penambahan fungsi auto-detect tipe IC (24C02, 24C04, 24C08)\n- Peningkatan stabilitas komunikasi via FTDI (bit-bang mode)\n- UI lebih responsif saat proses scanning data\n"
 }
-
-
-
-
-
