@@ -1,5 +1,6 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "zipUrl": "https://github.com/flashpro2025/update/releases/download/flashpro/Update.zip",
-  "notes": "Update Smartkey Yamaha & Suzuki:\n- Penambahan fitur: Read Key\n- Penambahan fitur: Copy SCU\n- Penambahan fitur: Write EEPROM 24Cxx\n"
+  "notes": "New Update \n- Penambahan fitur: Pin Out ECM\n- Penambahan fitur: User Picture\n"
 }
+
